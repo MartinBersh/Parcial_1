@@ -1,2 +1,4 @@
-package org.example.service;public class ContactoService {
+package org.example.service;
+
+public interface ContactoService {
 }
